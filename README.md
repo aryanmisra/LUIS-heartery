@@ -1,3 +1,7 @@
+# Heartery
+An innovative application that aims to help individuals that are at risk of developing heart disease develop better lifestyle habits.
+
+
 # Basic Bot template
 
 This samples shows how to:
